@@ -145,7 +145,11 @@ PRODUCT_COPY_FILES += \
  vendor/micromax/a117/proprietary/etc/firmware/WIFI_RAM_CODE_MT6628:system/etc/firmware/WIFI_RAM_CODE_MT6628 \
  vendor/micromax/a117/proprietary/etc/firmware/catcher_filter.bin:system/etc/firmware/catcher_filter.bin \
  vendor/micromax/a117/proprietary/etc/firmware/WMT.cfg:system/etc/firmware/WMT.cfg \
- vendor/micromax/a117/proprietary/etc/firmware/ft5206/tinno-fts-update-jiemian.bin:system/etc/firmware/ft5206/tinno-fts-update-jiemian.bin \
+ vendor/micromax/a117/proprietary/etc/firmware/ft5206/tinno-synaptics-update-biel.img:system/etc/firmware/ft5206/tinno-synaptics-update-biel.img \
+ vendor/micromax/a117/proprietary/etc/firmware/ft5206/tinno-synaptics-update-bm.img:system/etc/firmware/ft5206/tinno-synaptics-update-bm.img \
+ vendor/micromax/a117/proprietary/etc/firmware/ft5206/tinno-synaptics-update-byd.img:system/etc/firmware/ft5206/tinno-synaptics-update-byd.img \
+ vendor/micromax/a117/proprietary/etc/firmware/ft5206/tinno-synaptics-update-jtouch.img:system/etc/firmware/ft5206/tinno-synaptics-update-jtouch.img \
+ vendor/micromax/a117/proprietary/etc/firmware/ft5206/tinno-synaptics-update-yj.img:system/etc/firmware/ft5206/tinno-synaptics-update-yj.img \
  vendor/micromax/a117/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
  vendor/micromax/a117/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
  vendor/micromax/a117/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg
